@@ -1,0 +1,44 @@
+name: food_project
+description: A new Flutter application.
+
+
+publish_to:
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^0.1.3
+  getflutter: ^1.0.11
+  smooth_star_rating: 1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+   - images/foodlogo.jpg.png
+   - images/burger.png
+   - images/pizza.png
+   - images/icecream.png
+   - images/sandwich.png
+   - images/drink.png
+   - images/momos.png
+   - images/noodles.png
+   - images/pizzas.png
+   - images/ruchi.png.jpg
+
+
